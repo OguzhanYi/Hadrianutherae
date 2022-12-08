@@ -1,3 +1,2 @@
 - 👋 Hi, I’m OG
 - 👀 I’m interested in 3D non-rigid Shape Retrieval, Laplace-Beltrami Operator, and Blockchain
-- 🌱 I’m currently learning how to find gradients for eigenvectors and eigenvalues
